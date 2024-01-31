@@ -6,13 +6,11 @@
 
 
 
-<p align="center">
-- 🌻 Hi, I’m @Camisha Nicole 💗
-- 🌻 I’m interested in web development and cybersecurity 💗
-- 🌻 I’m currently learning HTML, CSS, and Javascript 💗
-- 🌻 I’m looking to collaborate on projects 💗
-- 🌻 Follow me on Instagram @ Camisha.Nicole 💗
-- 🌻 Pronouns: she/her/Princess 💗
-- 🌻 Fun fact: I love to farm and grow different fruits and vegetables 🍎🥒🍌🍇🍅
-</p>
-
+<p align="center"> - 🌻 Hi, I’m @Camisha Nicole 💗 </p>
+<p align="center"> - 🌻 I’m interested in web development and cybersecurity 💗 </p>
+<p align="center"> - 🌻 I’m currently learning HTML, CSS, and Javascript 💗 </p>
+<p align="center"> - 🌻 I’m looking to collaborate on projects 💗 </p>
+<p align="center"> - 🌻 Follow me on Instagram @ Camisha.Nicole 💗 </p>
+<p align="center"> - 🌻 Pronouns: she/her/Princess 💗 </p>
+<p align="center"> - 🌻 Fun fact: I love to farm and grow different fruits and vegetables 🍎🥒🍌🍇🍅 </p>
+<p align="center"> - 🌻 Hobbies: Shopping, Going out to Eat, Farming, and Spending time with family 💗 </p>
