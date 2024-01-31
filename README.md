@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Camisha
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, and Javascript
-- 💞️ I’m looking to collaborate on projects!
-- 📫 How to reach me @Camisha.Nicole on Instagram
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to farm
+- 🌻 Hi, I’m @Camisha Nicole 💗
+- 🌻 I’m interested in web development and cybersecurity 💗
+- 🌻 I’m currently learning HTML, CSS, and Javascript 💗
+- 🌻 I’m looking to collaborate on projects 💗
+- 🌻 Follow me on Instagram @ Camisha.Nicole 💗
+- 🌻 Pronouns: she/her/Princess 💗
+- 🌻 Fun fact: I love to farm and grow different fruits and vegetables 🍎🥒🍌🍇🍅
 
-<!---
-Cammielovee/Cammielovee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
