@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 💞️ I’m looking to collaborate on projects!
-- 📫 How to reach me @Camisha.Nicole
+- 📫 How to reach me @Camisha.Nicole on Instagram
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to farm
 
